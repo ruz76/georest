@@ -1,0 +1,17 @@
+# nechci projektove soubory od IDE IntelliJ Idea
+
+georest/build/*
+
+# nechci projektove soubory od IDE NetBeans
+
+georest/dist/* 
+
+
+
+#
+# dalsi soubory, pripony, apod. ... 
+#
+# https://github.com/github/gitignore
+# https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository#Ignoring-Files
+
+*.pdf
